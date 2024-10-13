@@ -1,0 +1,8 @@
+Manifest-Version: 1.0
+Specification-Title: conexionfire
+Specification-Vendor: ZomerAhris
+Specification-Version: 1
+Implementation-Title: TIPO 1
+Implementation-Version: 0.0.1
+Implementation-Vendor: ZomerAhris
+
